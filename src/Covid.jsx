@@ -27,10 +27,10 @@ const Covid =()=>{
                     <tr className="bg-light text-dark">
                         <th>State</th>
                         <th> Confirmed</th>
-                        <th> recovered</th>
-                        <th> deaths</th>
-                        <th> active</th>
-                        <th>update</th>
+                        <th> Recovered</th>
+                        <th> Deaths</th>
+                        <th> Active</th>
+                        <th>Update</th>
                     </tr>
                 </thead>
                 <tbody>
